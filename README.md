@@ -18,13 +18,13 @@ This repository contains the implementation for **Assignment 2** of the **WOA701
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 1. Prerequisites
 Ensure you have Python installed. It is recommended to use a virtual environment. Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Running the Project
+### 2. Running the Project
 To run the training script:
 ```bash
 python logistic_regression.py
@@ -34,9 +34,6 @@ To explore the analysis and visualizations, open the notebook:
 ```bash
 jupyter notebook Assignment2_25053692_ChenXi.ipynb
 ```
-
-## 📝 Conclusion
-This assignment demonstrates the fundamental mechanics of Logistic Regression and the importance of hyperparameter tuning (learning rate, iterations) in achieving a robust decision boundary.
 
 
 ### 3. Final Steps to Upload
@@ -55,3 +52,6 @@ Now, run these commands in your PyCharm terminal to push the new files to GitHub
     ```bash
     git push origin main
     ```
+
+ ## 📝 Conclusion
+This assignment demonstrates the fundamental mechanics of Logistic Regression and the importance of hyperparameter tuning (learning rate, iterations) in achieving a robust decision boundary.
