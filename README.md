@@ -46,7 +46,7 @@ Now, run these commands in your PyCharm terminal to push the new files to GitHub
     ```
 2.  **Commit the changes:**
     ```bash
-    git commit -m "docs: add English README and requirements.txt"
+    git commit -m "added relevant documents"
     ```
 3.  **Push to GitHub:**
     ```bash
